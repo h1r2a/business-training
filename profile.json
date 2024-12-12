@@ -1,0 +1,23 @@
+{
+  "username": "JohnDoe",
+  "profileImage": "https://example.com/profile-image.jpg",
+  "dashboard": "Bienvenue sur votre tableau de bord",
+  "courses": [
+    {
+      "name": "Cours de React",
+      "date": "2024-10-12"
+    },
+    {
+      "name": "Examen JavaScript",
+      "date": "2024-10-15"
+    },
+    {
+      "name": "Atelier Mobile",
+      "date": "2024-10-20"
+    }
+  ],
+  "balance": "250€",
+  "personalInfo": {
+    "email": "johndoe@example.com"
+  }
+}
